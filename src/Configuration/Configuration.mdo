@@ -38,4 +38,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.subsystem</subsystems>
 </mdclass:Configuration>
